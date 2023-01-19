@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+
+    // Values
+    <string name="nameLabel">Name</string>
+    <string name="genderLabel">Gender</string>
+    <string name="bloodLabel">Blood Type</string>
+    <string name="contactLabel">Contact Number</string>
+    <string name="addressLabel">Address</string>
+    <string name="RegisterBtnLabel">Register</string>
+    <string name="CancelBtnLabel">Clear</string>
+
+    // Hint
+    <string name="nameHint">Enter Full Name</string>
+    <string name="contactHint">Enter Contact Number</string>
+    <string name="addressHint">Enter Address</string>
+
+
+    // Animation Values
+    <string name="fromVal">0%</string>
+    <string name="toVal">0%</string>
+</resources>
